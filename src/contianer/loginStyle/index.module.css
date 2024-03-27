@@ -1,0 +1,15 @@
+.left_box{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.right_box{
+    width: 35%;
+    background-color: lightblue;;
+}
+
+.middle_box{
+    height: 40%;
+}
